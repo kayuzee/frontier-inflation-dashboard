@@ -8,7 +8,7 @@ Step 4: Run all
 
 You will get a dashboard that renders through bokeh to create a html webpage that looks like the below:
 
- Frontier-Inflation-Dashboard/Sample Dashboard.PNG 
+ [[https://github.com/kayuzee/Frontier-Inflation-Dashboard/Sample Dashboard.PNG]] 
 
 
 Notes: I am still relatively new at this so two main issues: 
