@@ -2,13 +2,17 @@
 This is a dashboard that uses Quandl (https://www.quandl.com/) to pull financial data
 
 Step 1: Create a Quandl Account
+
 Step 2: Go to profile --> Settings --> API key
+
 Step 3: Copy this API Key, go to the Jupyter notebook and in input 1 replace "YOUR_API_KEY" with this key
+
 Step 4: Run all
 
 You will get a dashboard that renders through bokeh to create a html webpage that looks like the below:
 
- [[https://github.com/kayuzee/Frontier-Inflation-Dashboard/Sample Dashboard.PNG]] 
+![sample_dashboard](https://user-images.githubusercontent.com/19885765/29255044-e2fc3368-8052-11e7-9d8d-b770fc006dca.PNG)
+
 
 
 Notes: I am still relatively new at this so two main issues: 
